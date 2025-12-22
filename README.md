@@ -1,8 +1,6 @@
-# Tachiwin-OCR: Fine-tuning PaddleOCR-VL for Indigenous Languages
+# Tachiwin-OCR: A Fine-tune of PaddleOCR-VL for Indigenous Languages
 
-Tachiwin-OCR is a specialized project dedicated to improving Optical Character Recognition (OCR) for the Indigenous languages of Mexico. This repository provides a complete pipeline for generating synthetic datasets, fine-tuning, and evaluating high-accuracy OCR models for under-represented languages.
-
-**Note:** This project focuses on the training and evaluation workflow. It is a fine-tune of the [PaddleOCR-VL](https://huggingface.co/unsloth/PaddleOCR-VL) architecture. This repository does not provide a direct deployment or production-serving method.
+Tachiwin-OCR is a fine-tune of the [PaddleOCR-VL](https://huggingface.co/unsloth/PaddleOCR-VL) vision-language model, specifically developed to solve OCR challenges for the Indigenous languages of Mexico. This repository contains the code used to generate the specialized datasets and successfully fine-tune the model, serving as the source for reproducing the [Tachiwin-OCR weights](https://huggingface.co/tachiwin/PaddleOCR-VL-Tachiwin).
 
 ---
 
@@ -27,7 +25,7 @@ Tachiwin-OCR is a specialized project dedicated to improving Optical Character R
     - Includes sharding, resume capabilities, and retry logic to handle large-scale uploads.
 
 ### 2. Model Fine-tuning
-- **`Tachiwin_OCR_PaddleOCR_VL_Finetuning.ipynb`**: The primary notebook for model training. It uses **Unsloth** to achieve significantly faster training and lower memory usage. It is specifically optimized for the PaddleOCR-VL architecture.
+- **`Tachiwin_OCR_PaddleOCR_VL_Finetuning.ipynb`**: The implementation of the fine-tuning process. It leverages **Unsloth** for efficient training and is the code used to create Tachiwin-OCR by fine-tuning PaddleOCR-VL on the custom synthetic datasets.
 
 ### 3. Inference
 You can perform inference using the `PaddleOCR` pipeline or the `transformers` library.
