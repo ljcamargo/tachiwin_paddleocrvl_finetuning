@@ -1,0 +1,8 @@
+[
+  {
+    "id": "sample_1",
+    "ground_truth": "¿aꞌiné tejamuáꞌamitɨejteꞌe? ¿Ni qui ayén yee múꞌeen xu huateújvaɨreꞌesin tɨ ij caí Dios amuaatáꞌan ɨ́ puaíjtzi? Ayej xaa neꞌu tiꞌayajna, puaíjtzi pu áꞌamuacɨꞌɨti tɨ́j naꞌa rusén j",
+    "raw": "¿a'iné tejamuá'amitiejte'e? ¿Ni qui ayén yee mú'een xu huateújvaire'esin ti ij caí Dios amuaatá'an í puaíjtzi? Ayej xaa ne'u ti'ayajna, puaíjtzi pu á'amuaci'iti tíj na'a rusén j",
+    "finetuned": "¿aꞌiné tejamuáꞌamitɨejteꞌe? ¿Ni qui ayén yee múꞌeen xu huateújvaɨreꞌesin tɨ ij caí Dios amuaatáꞌan ɨ́ puaíjtzi? Ayej xaa neꞌu tiꞌayajna, puaíjtzi pu áꞌamuacɨꞌɨti tɨ́j naꞌa rusén j"
+  }
+]
