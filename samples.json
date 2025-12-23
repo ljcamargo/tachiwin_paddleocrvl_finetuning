@@ -1,8 +1,212 @@
 [
   {
-    "id": "sample_1",
-    "ground_truth": "¿aꞌiné tejamuáꞌamitɨejteꞌe? ¿Ni qui ayén yee múꞌeen xu huateújvaɨreꞌesin tɨ ij caí Dios amuaatáꞌan ɨ́ puaíjtzi? Ayej xaa neꞌu tiꞌayajna, puaíjtzi pu áꞌamuacɨꞌɨti tɨ́j naꞌa rusén j",
-    "raw": "¿a'iné tejamuá'amitiejte'e? ¿Ni qui ayén yee mú'een xu huateújvaire'esin ti ij caí Dios amuaatá'an í puaíjtzi? Ayej xaa ne'u ti'ayajna, puaíjtzi pu á'amuaci'iti tíj na'a rusén j",
-    "finetuned": "¿aꞌiné tejamuáꞌamitɨejteꞌe? ¿Ni qui ayén yee múꞌeen xu huateújvaɨreꞌesin tɨ ij caí Dios amuaatáꞌan ɨ́ puaíjtzi? Ayej xaa neꞌu tiꞌayajna, puaíjtzi pu áꞌamuacɨꞌɨti tɨ́j naꞌa rusén j"
+    "id": "zpo_zpo-ebible-MT21_21_2_006_001_85ar",
+    "language": "zpo",
+    "ground_truth": "nu re ngwnaa me nto cho, yilotlaka zeeb pa nabeyy Dios lo re gu. Nel Juan mbiid lo re gu nu mseed xaa gu naz nali cheen Dios, per nambint gu xtizh xaa; leel re xaa naab demi kwaan nya naz Roma, nu re ngwnaa me nto cho mbin xtizh xaa. Per nixa ngune gu re kwaan ba nu nanglaat gu naletra gu kwaan nawent nu nangwiit gu lo Dios. ’Kenzha gu stub kwent nabix kwaan za na: Tub welt ngu tub xaabyi, xaa mxeen yag ub dubse xleyo.",
+    "raw": "nu re ngwnaa me nto cho, yilotlaka zeeb pa nabeyy Dios lo re gu. Nel Juan mbiid lo re gu nu mseed xaa gu naz nali cheen Dios, per nambint gu xtizh xaa; leel re xaa naab demi kwaan nya naz Roma, nu re ngwnaa me nto cho mbin xtizh xaa. Per nixa ngune gu re kwaan ba nu nanglaat gu naletra gu kwaan nawent nu nangwiit gu lo Dios. 'Kenzha gu stub kwent nabix kwaan za na: Tub welt ngu tub xaabyi, xaa mxeen yag ub dubse xleyo.",
+    "finetuned": "nu re ngwnaa me nto cho, yilotlaka zeeb pa nabeyy Dios lo re gu. ꞌNel Juan mbiid lo re gu nu mseed xaa gu naz nali cheen Dios, per nambint gu xtizh xaa; leel re xaa naab demi kwaan nya naz Roma, nu re ngwnaa me nto cho mbin xtizh xaa. Per nixa ngune gu re kwaan ba nu nanglaat gu naletra gu kwaan nawent nu nangwiit gu lo Dios. ’Kenzha gu stub kwent nabix kwaan za na: Tub welt ngu tub xaabyi, xaa mxeen yag ub dubse xleyo."
+  },
+  {
+    "id": "stp_stp-ebible-CL4_3_1_003_001_222ar",
+    "language": "stp",
+    "ground_truth": "Dhiꞌñ aꞌmkam mummɨ tu jam aꞌgidhaꞌ. Mu jam joochxidhaꞌ iñ na baꞌx bhaiꞌ jam aagiꞌñdhaꞌ nach jax jich ɨlhiiꞌñ aach yaꞌ, gio na jam guguuxdhaꞌ na pim cham tuꞌ bhaan jum oꞌjolhdhat miꞌ puiꞌ xi jiimdaꞌ na jax jix aaꞌ guch Xoiꞌkam. Bɨɨx muiꞌp jimdaꞌ bɨɨmaꞌn gu Oneesimo na puiꞌp jir jich jaduuñ jich Xoiꞌkam bhaan. Jix kɨɨgalhiꞌñ ich dhiꞌ dhich jaduuñ,",
+    "raw": "Dhi'ñ a'mkam mummi tu jam a'gidha'. Mu jam joochxidha' iñ na ba'x bhai' jam aagi'ndha' nach jax jich ilhii'ñ aach ya', gio na jam guguuxdha' na pim cham tu' bhaan jum o'jolhdhat mi' pui' xi jiimda' na jax jix aa' guch Xoi'kam. Biix mui'p jimda' biima'n gu Oneesimo na pui'p jir jich jaduuñ jich Xoi'kam bhaan. Jix kiigalhi'ñ ich di'hich jaduuñ,",
+    "finetuned": "Dhiꞌñ aꞌmkam mummɨ tu jam aꞌgidhaꞌ. Mu jam joochxidhaꞌ iñ na baꞌx bhaiꞌ jam aagiꞌñdhaꞌ nach jax jich ɨlhiiꞌñ aach yaꞌ, gio na jam guguuxdhaꞌ na pim cham tuꞌ bhaan jum oꞌjolhdhat miꞌ puiꞌ xi jiimdaꞌ na jax jix aaꞌ guch Xoiꞌkam. Bɨɨx muiꞌp jimdaꞌ bɨɨmaꞌn gu Oneesimo na puiꞌp jir jich jaduuñ jich Xoiꞌkam bhaan. Jix kɨɨgalhiꞌñ ich dhiꞌ dhich jaduuñ,"
+  },
+  {
+    "id": "nhg_nhg-ebible-AC17_16_1_011_001_83ar",
+    "language": "nhg",
+    "ground_truth": "Oquemelfe claramente que Jesús iloac Cristo. Cristo quejtusneque Tlaixpejpentle de Deus. Pero inu joriojte opiejque omoponierojque hua ochecuatlajtojque. Entunses Pöblo oquetzetzelo itlaquie quieme sieñas de que amo oqueselejque tietlajtultzi Deus. Oquemelfe: ―Nemejua nenixniempolebesque pero nenquepea tlajtlacule nemejua mismo porque amo nenqueneque nemoneltocasque. Naja amo necpea tlajtlacule porque ye onemiechnunutz de Jesucristo. Desde öxö para ca adelönte naja neyös ca giente tli amo joriojte para nequennunutzas de yejuatzi.",
+    "raw": "Oquemelfe claramente que Jesús iloac Cristo. Cristo quejtusneque Tlaixpejpentle de Deus. Pero inu joriojte opiejque omoponierojque hua ochecuatlajtojque. Entunses Pöblo oquetzetzelo itlaquie quieme sieñas de que amo oqueselejque tietlajtultzi Deus. Oquemelfe: -Nemejua nenixniempolebesque pero nenquepea tlajtlacule nemejua mismo porque amo nenqueneque nemoneltocasque. Naja amo necpea tlajtlacule porque ye onemiechnunutz de Jesucristo. Desde öxö para ca adelönte naja neyös ca giente tli amo joriojte para nequennunutzas de yejuatzi.",
+    "finetuned": "quemelfe claramente que Jesús iloac Cristo. Cristo quejtusneque Tlaixpejpentle de Deus. Pero inu joriojte opiejque omoponierojque hua ochecuatlajtojque. Entunses Pöblo oquetzetzelo itlaquie quieme sieñas de que amo oqueselejque tietlajtultzi Deus. Oquemelfe: ―Nemejua nenixniempolebesque pero nenquepea tlajtlacule nemejua mismo porque amo nenqueneque nemoneltocasque. Naja amo necpea tlajtlacule porque ye onemiechnunutz de Jesucristo. Desde öxö para ca adelönte naja neyös ca giente tli amo joriojte para nequennunutzas de yejuatzi."
+  },
+  {
+    "id": "azz_azz-ebible-C13_16_1_003_001_72ar",
+    "language": "azz",
+    "ground_truth": "namejuan ya nanmochihuaco ya nancalme de Dios. Huan nochi namejuan, ma amo aquen moyolcajcayahuaj. Tacán acsá de namejuan nanmohueyimatinemij ica ne tamachilisme de nijín talticpac san, yejua nojón monequi ma mocuepa queme se tagat de amo teyi quimati. Huan sayó ijcón huelis cajsis in yectic tamachilis de Dios. Huan in tamachilis de nican talticpac, Dios quipohua queme se mijmiquiloyot san.",
+    "raw": "namejuan ya nanmochihuaco ya nancalme de Dios. Huan nochi namejuan, ma amo aquen moyolcajcayahuahaj. Tacán acsa de namejuan nanmohueyimatinemij ica ne tamachilisme de nijín talticpac san, yejua nojón monequi ma mocuepa queme se tagat de amo teyi quimati. Huan sayó ijcón huelis cajsis in yectic tamachilis de Dios. Huan in tamachilis de nican talticpac, Dios quipohua queme se mijmiquiloyot san.",
+    "finetuned": "namejuan ya nanmochihuaco ya nantalme de Dios. Huan nochi namejuan, ma amo aquen moyolcajcayahuaj. Tacán acsá de namejuan nanmohueyimatinemij ica ne tamachilisme de nijín talticpac san, yejua nojón monequi ma mocuepa queme se tagat de amo teyi quimati. Huan sayó ijcón huelis cajsis in yectic tamachilis de Dios. Huan in tamachilis de nican talticpac, Dios quipohua queme se mijmiquiloyot san."
+  },
+  {
+    "id": "trc_trc-ebible-LK23_4_1_010_001_146ar",
+    "language": "trc",
+    "ground_truth": "caguáj nij yuvii̱ a. Ga̱a ne̱ quisíj vaꞌnu̱j cataj soꞌ rihaan nij yuvii̱: ―Tza̱j ne̱ taj va̱j se chiꞌi̱i̱ quiꞌyaj soꞌ maꞌ. Taj va̱j cacunꞌ tumé soꞌ, ne̱ ne nó xcúún soꞌ cavi̱ꞌ soꞌ maꞌ. Dan me se qui̱ꞌyáj do̱j sayuun man soꞌ, ne̱ caꞌa̱nj u̱u̱n soꞌ qui̱ꞌyáj na̱nj á ―taj uún Pilato rihaan nij yuvii̱ a. Tza̱j ne̱ caguáj ndoꞌo nij yuvii̱, ne̱ uxrá caꞌneꞌ nij yuvii̱ suun rihaan Pilato se vaa ya̱ cavi̱ꞌ Jesucristó rihaan rcutze̱ quiꞌya̱j soꞌ, ne̱ guun nucua̱j doj se‑na̱na̱ nij yuvii̱ yoꞌ a.",
+    "raw": "caguáj nij yuvii a. Gaa_ne guisfj va'nuj_cataj so' rihaan nij yuvii: —Tzaj_ne taj vaj_se chi'ii_gui_yaj so' ma'. Taj vaj_cacun' tumé so', ne ne nó xcüún so' cavi_so_ma'. Dan me se qui'yaj doj_sayuun man so', ne ça'anj uun_so' qui'yaj nanj á—taj uún Pilato rihaan nij yuvii a. Tzaj_ne caguáj ndo'o nij yuvii, ne uxrá ca'ne' nij yuvii suun rihaan Pilato se vaa ya cavi_Jesucristó rihaan rcutze gui'yaj_so', ne guun nucuaj_doj se-nana_nij yuvii yo' a.",
+    "finetuned": "caguáj nij yuvii̱ a. Ga̱a ne̱ quisíj vaꞌnu̱j cataj soꞌ rihaan nij yuvii̱: ―Tza̱j ne̱ taj va̱j se chiꞌii̱ quiꞌyaj soꞌ maꞌ. Taj va̱j cacunꞌ tumé soꞌ, ne̱ ne̱ nó xcúún soꞌ cavi̱ꞌ soꞌ maꞌ. Dan me se quiꞌyáj do̱j sayuun man soꞌ, ne̱ caꞌa̱nj uu̱n soꞌ quiꞌyáj na̱nj á ―taj uún Pilato rihaan nij yuvii̱ a. Tza̱j ne̱ caguáj ndoꞌo nij yuvii̱, ne̱ uxrá caꞌneꞌ nij yuvii̱ suun rihaan Pilato"
+  },
+  {
+    "id": "maz_maz-books-62_018_002_196ar",
+    "language": "maz",
+    "ground_truth": "d) velarización incipiente de la sibilante palatal e) “yeísmo” incipiente f) pérdida de la aspiración procedente de la “f” y de la “h” del árabe La aspiración de la “s” a final de sílaba, la lateralización de la vibrante a final de sílaba, así",
+    "raw": "d) velarización incipiente de la sibilante palatal e) \"yeísmo\" incipiente f) pérdida de la aspiración procedente de la \"f\" y de la \"h\" del árabe La aspiración de la \"s\" a final de sílaba, la lateralización de la vibrante a final de sílaba, así",
+    "finetuned": " d) velarización incipiente de la sibilante palatal e) “yeísmo” incipiente f) pérdida de la aspiración procedente de la “f” y de la “h” del árabe La aspiración de la “s” a final de sílaba, la lateralización de la vibrante a final de sílaba, así"
+  },
+  {
+    "id": "zab_zab-ebible-AC2_13_2_001_001_164ar",
+    "language": "zab",
+    "ground_truth": "—A no rzuzdeb. Chiyru guzuldí Bed cun dzɨ tsɨbtuby de apóstol, ax guniib diip: —De bniety Judea, ne irate ni rbez Jerusalén. Gulcuadiag ne gulgacbee ni iniia laat. De bnietré quɨt rzuztideb zec ni cayuntɨ xgab te pur teste rca gaa sidooni, sino que cayac ni gunii profet Joel,",
+    "raw": "—A no rzuzdeb. Chiyru guzuldi Bed cun dzi tsibtuby de apóstol, ax guniib diip: —De bniety Judea, ne irate ni rbez Jerusalén. Gulcuadiag ne gulgacbee ni iniia laat. De bnietré quit rzuztideb zec ni cayunti xgab te pur teste rca gaa sidooni, sino que cayac ni gunii profet Joel,",
+    "finetuned": "A no rzuzdeb. Chiyru guzuldí Bed cun dzɨ tsɨbtuby de apóstol, ax guniib diip: ―De bniety Judea, ne irate ni rbez Jerusalén. Gulcuadiag ne gulgacbee ni iniia laat. De bnietré quɨt rzuztideb zec ni cayuntɨ xgab te pur teste rca gaa sidooni, sino que cayac ni gunii profet Joel,"
+  },
+  {
+    "id": "mir_mir-constitucion_mx-art-096_007_001_238ar",
+    "language": "mir",
+    "ground_truth": "a kap ja yaꞌay ajxy oy jëjwidsëꞌë jadëꞌook wyingejxtëgatsaꞌañ ku ënajty të yꞌuktuunkpëdsèmy. Naagë ja Ministro ajxy tyëgëꞌëy ma ja Suprema Corte de Justiciën, ku ja tyuunk kyapxy ajxy ënajty yajtsoꞌondaꞌagaꞌañ, jim ajxy nëkxy ñëguꞌubèk ñëꞌadsowaꞌañ ma ja Senadores wyinduum ajxyën, a jëduꞌun ajxy jeꞌe tyunaꞌañ:",
+    "raw": "a kap ja ya ay ajxy oy jëjwidsë è jadë ook wyingejxtëgatsa an ku ènajty tü y uktuunkpëdsemy. Naagë ja Ministro ajxy tyëgë éy ma ja Suprema Corte de Justiçiën, ku ja tyuunk kyapxy ajxy ènajty yajtso onda aga an, jim ajxy nëkxy nëgu ubëk në adsowa an ma ja Senadores wyinduum ajxyën, a jëdu un ajxy je e tyuna an:",
+    "finetuned": "a kap ja ya ay ajxy oy jëjwidsë ë jadë ook wyingejxtëgatsa añ ku ënajty të y uktuunkpëdsèmy. Naagë ja Ministro ajxy tyëgë ëy ma ja Suprema Corte de Justiciën, ku ja tyuunk kyapxy ajxy ënajty yajtso onda aga añ, jim ajxy nëkxy ñëgu ubëk ñë adsowa añ ma ja Senadores wyinduum ajxyën, a jëdu un ajxy je e tyuna añ:"
+  },
+  {
+    "id": "mam_mam-ebible-MT25_1_2_024_001_74ar",
+    "language": "mam",
+    "ground_truth": "inayena Cawel, cye: “Jaxxix cxe'l nkba'na cyey, tej cybinchantiya cykilcaj lu cyej ocslal yaa'n jawnex, tisenc'a weya e cybinchay jlu,” tz̈i nbela. Jax ju'x cxe'l nkba'na cyej xjal tuj nneẍa: “Cypa'mel cyiiba wi'ja, key xjal cwel castiwa cyibaja. Chi xe'la tuj k'ak' te junx maj o bint te taaw il bix cye tbiman. Il ti'j tu'n cyxi'y tuj k'ak', cuma tej ttzaj tak' weyaj wi'ja,",
+    "raw": "inayena Cawel, cye: \"Jaxxxi cxe'l nkba'na cyey, tej cybinchantiya cykilcaj lu cyej ocslal yaa'n jawnex, tisenc'a weya e cybinchay jlu,\" tzi nbela. Jax ju'x cxe'l nkba'na cyej xjal tuj nnexa: \"Cypa'mel cyiiba wi'ja, key xjal cwel castiwa cyibaja. Chi xe'la tuj k'ak' te junx maj o bint te taaw il bix cye tbiman. Il ti'j tu'n cyxi'y tuj k'ak', cuma tej ttzaj tak' weyaj wi'ja,",
+    "finetuned": "inayena Cawel, cye: “Jaxxix cxe'l nkba'na cyey, tej cybinchantiya cykilcaj lu cyej ocslal yaa'n jawnex, tisenc'a weya e cybinchay jlu,” tz̈i nbela. Jax ju'x cxe'l nkba'na cyej xjal tuj nnëxa: “Cypa'mel cyiiba wi'ja, key xjal cwel castiwa cyibaja. Chi xe'la tuj k'ak' te junx maj o bint te taaw il bix cye tbiman. Il ti'j tu'n cyxi'y tuj k'ak', cuma tej ttzaj tak' weyaj wi'ja,"
+  },
+  {
+    "id": "npl_npl-ebible-TT1_3_1_017_001_150ar",
+    "language": "npl",
+    "ground_truth": "yej porke Ye satlawel otechiknoma, iwa otechmakixti ika Iespíritu Santo. Ye otechpajpak para tikpiaskeh n yankuik nemílistli iwa otechyánkuili. Iwa por Cristo Jesús Totemakixti, Dios otechmokemi ika Iespíritu Santo. Ika itlasojtlalis Dios yotechseli kemi tiyolchipawakeh, iwa weletis tikpiaskeh nemílistli non áyik tlamis tla tikchiah tlan Dios yokijto techaxkatilis.",
+    "raw": "yej porke Ye satlawel otechiknoma, iwa otechmakixti ika Iespíritu Santo. Ye otechpajpak para tikpiaskeh n yankuik nemílistli iwa otechyánkuili. Iwa por Cristo Jesús Totemakixti, Dios otechmokemi ika Iespíritu Santo. Ika itlasojtlais Dios yotechseli kemi tiyolchipawakeh, iwa weletis tikpiaskeh nemílistli non áyik tlamis tla tikchiah tlan Dios yokijto techaxkatilis.",
+    "finetuned": "yej porke Ye satlawel otechiknoma, iwa otechmakixti ika Iespíritu Santo. Ye otechpajpak para tikpiaskeh n yankuik nemílistli iwa otechyánkuili. Iwa por Cristo Jesús Totemakixti, Dios otechmokemi ika Iespíritu Santo. Ika itlasojtlalis Dios yotechseli kemi tiyolchipawakeh, iwa weletis tikpiaskeh nemílistli non áyik tlamis tla tikchiah tlan Dios yokijto techaxkatilis."
+  },
+  {
+    "id": "zao_zao-ebible-JN21_11_1_023_001_147ar",
+    "language": "zao",
+    "ground_truth": "ne mroo reta xtii Judas. Ne or mbin re zha Jerusalén kona, tsa mtob le zha loyuʼa Acéldama (diiz ree nak: “Loyu ren”). Tak nkeʼa lo yeets chaan Salm ta nzhab: Lee liz Judas gan ne neeka thib zha yote. [Sal. 69:25] Ne noga nzhabe: Tedib zha tsow rtsin Judas. [Sal. 109:8] ’Kona xid re zha kuu mndiy kon Jesús, dita lo mndo Jesús lo reʼaa, desde or kuu mtsowleyy Juan Jesús,",
+    "raw": "ne mico reta xtii Judas. Ne or mbin re zha Jerusalem kona, tsaw mob le zha loyir a Acsldama (diz ree nak: \"Loyu ren\"). Tak nko'a le yeets chaan Salm ta nzhab: Lee liz Judas gan ne neeka thib zhe yete. [Sal. 69:25] Ne noga nzhale: Tedib zha tsew rtsin Judas [Sal. 109:8] Kona xid re zha kuu mrdly kon Jesis, dita to mnde Jesus lo ra aa, desde ar kuu mtsowleyy, Juan Jesus,",
+    "finetuned": "e moo reta xtii Judas. Ne or nto̱n re zha Jerusalán kona̱ tsa̱ mɨa̱h is zha tayu̱a̱ Acsɨtlama̱ (dɨi̱² ree nakɨ. ‘Loyu̱ reⁿ). Tak nɨk'a̱ lo yeets chaar Salm ta̱ nalhaix. Kee lo Juñas gan ne̱reeka̱tib zha yɨte̱ [Sal 69:23] Ne noga̱ nɨsha: ―Tedib zha tsowɨ́tsin Judas. ¡Sal 19:23] ẍa̱na̱ xɨt re zha kuu̱ mɨndɨyɨɨyɨɨkɨn Jesús, dɨta̱to̱mndo̱ Jesús lo re'a̱o̱ ɨɨde̱te̱ or kuu�"
+  },
+  {
+    "id": "azz_azz-ebible-AC25_24_2_005_003_88ar",
+    "language": "azz",
+    "ground_truth": "Huan ica por ne netenilil de Dios,",
+    "raw": "Huan ica por ne netenilil de Dios,",
+    "finetuned": "Huan ica por ne netenilil de Dios,"
+  },
+  {
+    "id": "ngu_ngu-ebible-J14_6_1_005_001_120ar",
+    "language": "ngu",
+    "ground_truth": "niman on tlacatl san secan nemi ihuan Dios. Ticmatij niman ticneltocaj ica Dios techtlajsojtla. Dios sa no yejhua tetlajsojtlalistli. On yejhuan tetlajsojtla san secan nemi ihuan Dios, niman Dios san secan nemi ihuan. Ijcon, tej, tla tictlajsojtlaj Dios niman on tocnihuan ican nochi toyojlo quen yejhua quinequi, xtitomojtisquej ixpan Dios ijcuac techyolcuitis niman techtlaxtlahuilis.",
+    "raw": "niman on tlacatl san secan nemi ihuan Dios. Ticmatij niman ticneltocaj ica Dios techtlajsojtla. Dios sa no yejhua tetlajsojtlalistli. On yejhuan tetlajsojtla san secan nemi ihuan Dios, niman Dios san secan nemi ihuan. Ijcon, tej, tla tictlajsojtlaj Dios niman on tocnihuan ican nochi toyojlo quen yejhua quinequi, xtitomojtisquej ixpan Dios ijcuac techyolcuitis niman techtlaxtlahuilis.",
+    "finetuned": "niman on tlacatl san secan nemi ihuan Dios. Ticmatij niman ticneltocaj ica Dios techtlajsojtla. Dios sa no yejhua tetlajsojtlalistli. On yejhuan tetlajsojtla san secan nemi ihuan Dios, niman Dios san secan nemi ihuan. Ijcon, tej, tla tictlajsojtlaj Dios niman on tocnihuan ican nochi toyojlo quen yejhua quinequi, xtitomojtisquej ixpan Dios ijcuac techyolcuitis niman techtlaxtlahuilis."
+  },
+  {
+    "id": "mto_mto-ebible-C212_10_1_012_001_206ar",
+    "language": "mto",
+    "ground_truth": "Ku a̱ts miitseꞌe jadoꞌk nax na̱jkx nkuꞌíxtinuva, kaꞌats a̱tseꞌe ntukmo̱ꞌo̱ttat pa̱n pa̱n jatyeꞌe kato̱kintonꞌatú̱vidup. Vanꞌit tseꞌe xꞌíxtat xnu̱jávadat je̱ts ko̱jtspeꞌe je̱ Cristo a̱ts ka̱jx. Ax je̱ Cristo,",
+    "raw": "Ku ats miitse'e jado'k nax najkx nku'íxtinuva, ka'ats atse'e ntukmö'ottat pan pan jatye'e katökinton'atúvidup. Van'it tse'e x'íxtat xnujávadat jets kojtspe'e je Cristo ats kajx. Ax je Cristo,",
+    "finetuned": "Ku a̱ts miitseꞌe jadoꞌk nax na̱jkx nkuꞌíxtinuva, kaꞌats a̱tseꞌe ntukmo̱ꞌo̱ttat pa̱n pa̱n jatyeꞌe kato̱kintonꞌatú̱vidup. Vanꞌit tseꞌe xꞌíxtat xnu̱jávadat je̱ts ko̱jtspeꞌe je̱ Cristo a̱ts ka̱jx. Ax je̱ Cristo,"
+  },
+  {
+    "id": "pls_pls-ebible-AC12_20_1_015_002_104ar",
+    "language": "pls",
+    "ground_truth": "Pero Dios joinchexechon jehe Jesús.",
+    "raw": "Pero Dios joinchexec hon jehe Jesús.",
+    "finetuned": "Pero Dios joinchexec̈hon jehe Jesús."
+  },
+  {
+    "id": "mat_mat-constitucion_mx-art-070-2_004_001_212ar",
+    "language": "mat",
+    "ground_truth": "tenawi ki tatunu Cámara pu tatunu muranji yakja romatunjiri ‘o ki romatumewi, muranji ki taremejyu ixta tarexuri pi ne jeabi ki re’ini makuts’i ixta pu tarepatikuenta ne bɇmeni ki re’ini makuts’i. Xatare’ini ki rontejɇjya ne ch’aribawi pu romatukuats’i muk’una ‘o pu romatumejɇ ne bɇmeni pi ninji Maaribawi.",
+    "raw": "tenawi ki tatunu Cámara pu tatunu muranji yakja romatunjiri ‘o ki romatumewi, muranji ki taremejyu ixta tarexuri pi ne jeabi ki re’ini makuts’i ixta pu tarepatikuenta ne b meni ki re’ini makuts’i. Xatare’ini ki rontej jya ne ch’aribawi pu romatukuats’i muk’una ‘o pu romatumej  ne b meni pi ninji Maaribawi.",
+    "finetuned": "tenawi̱ki̱tatunu Cámara pu̱tatunu muranji̱yakja romatunjiri̱ ―o̱ki̱ romatumewi, muranji̱ki̱taremejyu ixta̱ tarexuri̱pi ne jeabi̱ki re’ini̱makuts’i ixta̱pu̱tarepatikuenta ne bʉmeni̱ki re’ini̱makuts’i. Xatare’ini̱ki rontej jya ne ch’aribawi̱ pu̱romatukuats’i muk’una̱ ―o̱pu̱ romatumejʉ ne bʉmeni̱pi ninji Maaribawi."
+  },
+  {
+    "id": "ncj_ncj-ebible-AC14_19_1_002_001_207ar",
+    "language": "ncj",
+    "ground_truth": "Oquinehnehuiliyayahque quen yoquimictihque huan oquitotoxohque tlatentli den altepetl. Huan ihcuac oquiyehualohque in tlaneltocanimen in Pablo, yehhua omoquetz huan oc sepa ocalac ipan in altepetl. Huan ic mostla oquis ihuan Bernabé huan oyahque ipan in altepetl Derbe.",
+    "raw": "Oquinehnehuiliyayahque quen yoquimictihque huan oquitotoxohque tlatentli den altepetl. Huan ihcuac oquiyehualohque in tlaneltocanimen in Pablo, yehhua omoquetz huan oc sepa ocalac ipan in altepetl. Huan ic mostla oquis ihuan Bernabé huan oyahque ipan in altepetl Derbe.",
+    "finetuned": "Oquinehnehuiliyayayahque quen yoquimictihque huan oquitotoxohque tlatentli den altepetl. Huan ihcuac oquiyehualohque in tlaneltocanimen in Pablo, yehhua omoquetz huan oc sepa ocalac ipan in altepetl. Huan ic mostla oquis ihuan Bernabé huan oyahque ipan in altepetl Derbe."
+  },
+  {
+    "id": "chj_chj-books-9_004_003_77ar",
+    "language": "chj",
+    "ground_truth": "—Rÿ si' 'nä sïmi' majä ngž chia. —Jï' 'nä lajŽ jú ngž sïmi'. —'Lÿÿ 'nä jña e' 'näa ñii moyi. 'Ma 'nä j ma le e' y i j ma kö ikä sïmi' r ô ' ma j ä k π ek ã ' 'nä. 127 Laí ma ma' 'nä, esa j ú eè lailł' tsa j ña j o lailž' esa laí natö tžwò nž. Jä chiti Iä' juł' makua kiä,",
+    "raw": "—Rǔ sì 'nā sīmi' maǔ ngǔ chia. —Jī''nā lajǐz jú ngǐ sīmi'. —'Lǚyǐ'nā jāna e'nāa nīi moyi. 'Ma 'nā j ma le e' y i j ma kō ikā sīmi' r ô 'ma j à k π ek ā' 'nā. 127 Laí ma ma' 'nā, esa j ú eè lailt' tsa j ña j o lailz' esa laí natǒ tǒwò nǚ. Jǐ chìti Iā' juǐ' makua kiā,",
+    "finetuned": "Rÿ si' 'nä sïmi' majä ngž chia. ―Jï' 'nä lajž jú ngž sïmi'. ―'Lÿÿ 'nä jña e' 'nää ñii moyi. 'Ma 'nä j ma le e' y i j ma kö ikä sïmi' rô ' ma j ä k π ek ã ' 'nä. 127 Laí ma ma' 'nä, esa j ú eè lailł' tsa j ña j o lailž' esa laí natö tžwò nž. Jä chiti Iä' juł' makua kiä,"
+  },
+  {
+    "id": "mit_mit-ebible-AC2_32_1_016_001_208ar",
+    "language": "mit",
+    "ground_truth": "Ndácùcahín quìvì Jesucristu de Nazaret, te cachíˋ xì‑ní ndacuiìn‑ní caca‑ní. Dandu nì tnii‑ne ndahàcuàhá tiàa ma, nì ndacani‑ne nècuàchìmà. Te vichi duha nì ndufuerté sàhà‑né, yàchì nì ndanchito‑ne, nì ndacuiin‑nè, te luegu nì quesaha‑né xicá‑né; nì quìhvi stná‑nè veheñùhu,",
+    "raw": "Ndácücahín quivì Jesucristu de Nazaret, te cachí xì-ní ndacuiin-ní caca-ní. Dandu nì tnii-ne ndahàcuàhá tiàa ma, nì ndacani-ne nècuàchàmà. Te vichi duha nì ndufuerté sàhà-né, yàchì nì ndanchito-ne, nì ndacuiin-nè, te luegu nì quesaha-né xicá-né; nì quihvi stná-nè veheñùhu,",
+    "finetuned": "Ndácùcahín quìvì Jesucristu de Nazaret, te cachíˋ xì‑ní ndacuiìn‑ní caca‑ní. Dandu nì tnii‑ne ndahàcuàhá tiàa ma, nì ndacani‑ne nècuàchìmà. Te vichi duha nì ndufuerté sàhà‑né, yàchì nì ndanchito‑ne, nì ndacuiin‑nè, te luegu nì quesaha‑né xicá‑né; nì quìhvi stná‑nè veheñùhu,"
+  },
+  {
+    "id": "maa_maa-ebible-LK6_29_1_017_001_231ar",
+    "language": "maa",
+    "ground_truth": "kàtasíxkiì‑la̱ jè chi̱'nda‑la̱ xi xk'én. Jñà xi̱ta̱ jchínga, k'e̱ nga ijchòkon Jesús 'ñó tsibítsi'ba‑la̱, kitsò‑la̱: ―Ok'ín‑la̱ nga si̱chját'aà‑la̱ xi̱ta̱ ítjòn jè. Tsjakeè na̱xa̱ndá xi chja̱‑ne Judea, koa̱ jè tsibíndaà jngoò‑ná ni'ya i̱ngo̱ sinagoga i̱ na̱xa̱ndá‑ná. Jesús kiìko̱ jñà xi̱ta̱ jchínga koi, ta̱nga k'e̱ nga jye kjo̱meè bijchó chrañàt'aà‑la̱ ni'ya, jè xi̱ta̱ ítjòn‑la̱ soldado kisìkasén i'nga amigo‑la̱ nga kitsò‑la̱ Jesús:",
+    "raw": "κάταξικιῆ-λα ἐν ἡ ἡ ἡ ἡ ἡ ἡ ἡ ἡ ἡ ἡ ἡ ἡ ἡ ἡ ἡ ἡ ἡ ἡ ἡ ἡ ἡ ἡ ἡ ἡ ἡ ἡ ἡ ἡ ἡ ἡ ἡ ἡ ἡ ἡ ἡ ἡ ἡ ἡ ἡ ἡ ἡ ἡ ἡ ἡ ἡ ἡ ἡ ἡ ἡ ἡ ἡ ἡ ἡ ἡ ἡ ἡ ἡ ἡ ἡ ἡ",
+    "finetuned": "Kàtasíxkìì‑la̱ jè chi̱'nda‑la̱ xi xk'én. Jñà xi̱ta̱ jchínga, k'e̱ nga ijchòkon Jesús 'ñó tsibítsi'ba‑la̱, kitsò‑la̱: ―Ok'ín‑la̱ nga si̱chját'aà‑la̱ xi̱ta̱ ítjòn jè. Tsjakeè na̱xa̱ndá xi chja̱‑ne Judea, koa̱ jè tsibíndaà jngoò‑ná ni'ya i̱ngo̱ sinagoga i̱ na̱xa̱ndá‑ná. Jesús kiìko̱ jñà xi̱ta̱ jchínga koi, ta̱nga k'e̱ nga jye kjo̱meè bijchó chrañàt'aà‑la̱ ni'ya, jè xi̱ta̱ ítjòn‑la̱ soldado kisìkasén i"
+  },
+  {
+    "id": "amu_amu-books-21_008_002_79ar",
+    "language": "amu",
+    "ground_truth": "juuna’ oo aa candyoo’wi’ waana’ oo aa tquia waana’ n nacañoom’ ts’a . Joo adjetivos demostrativos ñequii’che n t’uii’ cwiwiiljeiina’ jo nnom sustantivo, cha’ na ñ’oommeii n : w’aawaa w’aawaa’ w’aama’ñe n casaam’aa n casaam’aa n n casaama’ñe n tyochjoom’aa n tyochjoom’aa n ’ tyochjooma’ñe n",
+    "raw": "juuna' oo aa candyoo'wi' waana' oo aa tquia waana' n nacañoom' ts'a . Joo adjetivos demostrativos âequii'che n t'uii' cwiwiiljeiina' jo nnom sustantivo, cha' na n'oommeii n : w'aawaa w'aawaa' w'aama'ñe n casaam'aa n casaam'aa n n casaama'ñe n tyochjoom'aa n tyochjoom'aa n' tyochjooma'ñe n",
+    "finetuned": "juunaʼ oo aa candyooʼwiʼ waanaʼ oo aa tquia waanaʼ n nacañoomʼ tsʼa . Joo adjetivos demostrativos ñequiiʼche n tʼuiiʼ cwiwiiljeiinaʼ jo nnom sustantivo, chaʼ na ñʼoommeii n : wʼaawaa wʼaawaaʼ wʼaamaʼñe n casaamʼaa n casaamʼaa n nyochjoomʼaa n tyochjoomʼaa n tyochjoomaʼñe n"
+  },
+  {
+    "id": "zaw_zaw-ebible-J12_21_1_024_001_114ar",
+    "language": "zaw",
+    "ground_truth": "luxh ṉaj abidzujṉ rextzuun niguiiga lo guedxliuj. Guejbtu resa'ä, najcnu rexi'n Dios. N̲aj abiennu gaan lo rebejṉ ni rdxe'ch lo Jesucrist sa'csi Dios ni rbäjz neṉ lastoonu abejnni gaan lo beṉdxab ni nabajṉ lo guedxliuj. Rebejṉ ni rnii xhet guliidi xtidx Dios, rililajztisreni rediidx ni najc xten guedxliuj. Xhidalduxh rebejṉ ni ṟe' lo guedxliuj riu rediidx ni xhet guliidi.",
+    "raw": "luxh naj abidzujn rextzuun niguiiga lo guedxliuj. Guejbtu resa'a, najcnu rexi'n Dios. Naj abiennu gaan lo rebejn ni rdxe'ch lo Jesucrist sa'csi Dios ni rbäjz nen lastoonu abejnni gaan lo bendxab ni nabajn lo guedxliuj. Rebejn ni rnii xhet guliidi xtidx Dios, rililajztisreni rediidx ni najc xten guedxliuj. Xhidalduxh rebejn ni re' lo guedxliuj riu rediidx ni xhet guliidi.",
+    "finetuned": "uxh ṉaj abidzujṉ rextzuun niguiiga lo guedxliuj. Guejbtu resa'ä, najcnu rexi'n Dios. Ṉaj abiennu gaan lo rebejṉ ni rdxe'ch lo Jesucrist sa'csi Dios ni rbäjz neṉ lastoonu abejnni gaan lo beṉdxab ni nabajṉ lo guedxliuj. Rebejṉ ni rnii xhet guliidi xtidx Dios, rililajztisreni rediidx ni najc xten guedxliuj. Xhidalduxh rebejṉ ni ṟe' lo guedxliuj riu rediidx ni xhet guliidi."
+  },
+  {
+    "id": "huv_huv-ebible-AC20_12_1_016_001_166ar",
+    "language": "huv",
+    "ground_truth": "samongónan tambasan najtepiün wüx iüt tiül noic cambaj nenüt Pátara. Quiaj taxomasan alinop müx apmamb andüy Fenicia; tajtepasan tiül. Ndoj tawasan quiaj tambasan. Tamongasan niüng ajlüy noic iüt tiül ndec nenüt Chipre,",
+    "raw": "samongónan tambasan najtepiün wüx iüt tiül noic cambaj nenüt Pátara. Quiaj taxomasan alinop müx apmamb andüy Fenicia; tajtepasan tiül. Ndoj tawasan quiaj tambasan. Tamongasan niüng ajlüy noic iüt tiül ndec nenüt Chipre,",
+    "finetuned": "samongónan tambasan najtepiün wüx iüt tiül noic cambaj nenüt Pátara. Quiaj taxomasan alinop müx apmamb andüy Fenicia; tajtepasan tiül. Ndoj tawasan quiaj tambasan. Tamongasan niüng ajlüy noic iüt tiül ndec nenüt Chipre,"
+  },
+  {
+    "id": "ote_ote-books-10_002_001_211ar",
+    "language": "ote",
+    "ground_truth": "há njab u, ndunthi ya bömhño jö'i xä x a di ra nthogi ya ñuhu ma yab u naño no'ö mo' u de hanja bi nja nö'ö ra m' e t'o 'uege ya hñahñu ra pahyabya di jada da n'año nö'ö mongi ra fëni (Soustelle 1994), (Carrasco 1950), (Mendizábal 1947),",
+    "raw": "há njab u, ndunthi ya bömhño jö'i xä x a di ra nthogi ya ñuhu ma yab u naño no'ö mo' u de hanja bi nja nö'ö ra m' e t'o 'uege ya hñahñu ra pahyabya di jada da n'año nö'ö mongi ra fëni (Soustelle 1994), (Carrasco 1950), (Mendizábal 1947),",
+    "finetuned": "994), (Carrasco 1950), (Mendizábal 1947),"
+  },
+  {
+    "id": "mih_mih-ebible-MT12_25_1_004_002_171ar",
+    "language": "mih",
+    "ground_truth": "Minoo yutu vaha,",
+    "raw": "Minoo yutu vaha,",
+    "finetuned": "Minoo yutu vaha,"
+  },
+  {
+    "id": "mxp_mxp-ebible-AC12_7_2_003_001_175ar",
+    "language": "mxp",
+    "ground_truth": "japnɨmts ja Pedro ojts yikmajtstuꞌuty nadyuꞌuk. Xjats ja tjanchja̱ꞌwøø ku yꞌawa̱ꞌa̱tspɨdsɨɨmy, jøts yɨdeꞌen wya̱a̱ñ: ―Pø janch jadeꞌendamxɨ døꞌøn ku ja nwɨndsønꞌa̱jtɨm tø tjanchkexy ja yꞌa̱nkɨlɨs jøts øts ja xyikꞌawa̱ꞌa̱tspɨdsøꞌømt jap puxøjkjøtpy, jøts ja israelɨt ja̱a̱ꞌy møøt ja wyɨndsøn Herodes jadeꞌen tø xkamɨmajada̱ꞌa̱ktɨ pønɨ sa̱ øts jaꞌ xtyimyjaꞌuktunwa̱ꞌa̱ndɨ. Jadeꞌen ja Pedro wyɨnmay,",
+    "raw": "japnimts ja Pedro ojts yikmajtstu'uty nadyu'uk. Xjats ja tjanchja'wøo ku y'awq'atspidsiimy, jøts yide'en wyaañ: —Pø janch jade'endamxi dø'on ku ja nwindson'ajtim tø tjanchkexy ja y'ankilis jøts ot ja xyik'awa'atspidso'œmt jap puxojkjøtpy, jøts ja israelit ja'y møot ja wyindson Herodes jade'en tø xkamimajada'akti poni sa øts ja' xtyimyja'uktunwa'and. Jade'en ja Pedro wyinmay,",
+    "finetuned": "japnɨmts ja Pedro ojts yikmajtstuꞌuty nadyuꞌuk. Xjats ja tjanchja̱ꞌwøø ku yꞌawa̱ꞌa̱tspɨdsɨɨmy, jøts yɨdeꞌen wya̱a̱ñ: ―Pø janch jadeꞌendamxɨ døꞌøn ku ja nwɨndsønꞌa̱jtɨm tø tjanchkexy ja yꞌa̱nkɨlɨs jøts øts ja xyikꞌawa̱ꞌa̱tspɨdsøꞌømt jap puxøjkjøtpy, jøts ja israelɨt ja̱a̱ꞌy møøt ja wyɨndsøn Herodes jadeꞌen tø xkamɨmajada̱ꞌa̱ktɨ pønɨ sa̱ øts jaꞌ"
+  },
+  {
+    "id": "tac_tac-ebible-AC13_5_1_004_002_75ar",
+    "language": "tac",
+    "ground_truth": "'Lige alué rió Sauli anilime rió oká rewégame nile,",
+    "raw": "'Lige alué rió Sauli anilime rió oká rewégame nile,",
+    "finetuned": "Lige alué rió Sauli anilime rió oká rewégame nile,"
+  },
+  {
+    "id": "zaa_zaa-ebible-EP4_11_1_005_002_232ar",
+    "language": "zaa",
+    "ground_truth": "Canchu ritsa'áni le,",
+    "raw": "Canchu ritsa'áni le,",
+    "finetuned": "Canchuritsa'áni le,"
+  },
+  {
+    "id": "ngu_ngu-ebible-AC28_15_1_008_001_75ar",
+    "language": "ngu",
+    "ground_truth": "Pablo oquimijlij in tlajtojli: ―Cuajli otlajtoj on Espíritu Santo itechcopa on tiotlajtojquetl Isaías ijcuac oquimijlij on toachtojtajhuan: Xhuiya niman ijquin xquimijlij on tlacamej: Ica nemonacashuan nentlacactiasquej, pero xitlaj nencajsicamatisquej. Niman ica nemixtololojhuan nentlachixtiasquej, pero xitlaj nenquitasquej.",
+    "raw": "Pablo oquimijlij in tajtojli: —Cuajli otlajtoj on Espíritu Santo itechcopa on tiotlajtojquetl Isaías ijcuac oquimijlij on toachtojtajhuan: Xhuiya niman ijquin xquimijlij on tlacamej: Ica nemonacashuan nentlacactiasquej, pero xitlaj nencajsicamatisquej. Niman ica nemixtololojhuan nentlachixtiasquej, pero xitlaj nenquitasquej.",
+    "finetuned": "Pablo oquimijlij in tlajtojli: ―Cuajli otlajtoj on Espíritu Santo itechcopa on tiotlajtojquetl Isaías ijcuac oquimijlij on toachtojtajhuan: Xhuiya niman ijquin xquimijlij on tlacamej: Ica nemonacashuan nentlacactiasquej, pero xitlaj nencajsicamatisquej. Niman ica nemixtololojhuan nentlachixtiasquej, pero xitlaj nenquitasquej."
+  },
+  {
+    "id": "otm_otm-ebible-GL3_19_1_020_001_211ar",
+    "language": "otm",
+    "ground_truth": "rán t'uti ʉ yʉ́n t'ɛ̨di Oją bin t'un'na Moisés bʉ ja ra t'øhø Sinaí. Nɛ nu'ʉ to i tɛn'ndʉ, tengu'bʉ yʉ 'yɛ̨hɛ ʉ. Nu ra Agar i uh ra hmɛpya nangue ra t'øhø Sinaí nubʉ ja ra häi Arabia, nɛ ngutho ra dąhnini Jerusalén ngue'a i ja bʉ a ya. Nɛ nu yʉ ją'i i 'bʉpʉ, i uh ra hmɛpya tengu'bʉ yʉ́ 'yɛ̨hɛ ʉ yʉ́n t'øt'e yʉn t'ɛ̨di ʉ. Pɛ nu ra xisu ngue hing ra 'yɛ̨hɛ i uh ra hmɛpya nguepʉ mahɛ̨ts'i, ra hnini Jerusalén ma'da'yo.",
+    "raw": "rán t'uti u yún t'édi Ojq bin t'un'na Moisés bu ja ra t'oha Sinaí. Ne nu'u to i ten'ndu, tengu'bú yu 'yèche u. Nu ra Agar i uh ra hmepya nangue ra t'ohe Sinaí nubu ja ra hái Arabia, ne ngutho ra dhnini Jerusalén ngue'a i ja bú a ya. Ne nu yu jq'i i 'bup, i uh ra hmepya tengu'bú yu 'yèche u yún t'e'e yun t'édi u. Pe nu ra xisu ngue hing ra 'yèche i uh ra hmepya nguepu mahets'i, ra hnini Jerusalén ma'da'yo.",
+    "finetuned": "án t'uti ʉ yʉ́n t'ɛ̨di Oją bin t'un'na Moisés bʉ ja ra t'øhø Sinaí. Nɛ nu'ʉ to i tɛn'ndʉ, tengu'bʉ yʉ 'yɛ̨hɛ ʉ. Nu ra Agar i uh ra hmɛpya nangue ra t'øhø Sinaí nubʉ ja ra häi Arabia, nɛ ngutho ra dąhnini Jerusalén ngue'a i ja bʉ a ya. Nɛ nu yʉ ją'i i 'bʉpʉ, i uh ra hmɛpya tengu'bʉ yʉ́ 'yɛ̨hɛ ʉ yʉ́n t'øt'e yʉn t'ɛ̨di ʉ. Pɛ nu ra xisu ngue hing ra 'yɛ̨hɛ i uh ra hmɛpya nguepʉ mahɛ̨ts'i, ra hnini Jerusalén ma'da'yo."
   }
 ]

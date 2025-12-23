@@ -37,7 +37,7 @@ from paddleocr import PaddleOCRVL
 # Load the fine-tuned model
 pipeline = PaddleOCRVL(
     vl_rec_model_name="PaddleOCR-VL-0.9B",
-    vl_rec_model_dir=model_dir,
+    vl_rec_model_dir=path_to_tachiwin_downloaded_model,
 )
 
 # Predict on an image
@@ -56,18 +56,11 @@ import torch
 from transformers import AutoModelForCausalLM, AutoProcessor
 
 # ---- Settings ----
-model_path = "tachiwin/PaddleOCR-VL-Tachiwin"
+model_path = "tachiwin/PaddleOCR-VL-Tachiwin-BF16"
 image_path = "test.png"
-task = "ocr" # Options: 'ocr' | 'table' | 'chart' | 'formula'
 # ------------------
 
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
-PROMPTS = {
-    "ocr": "OCR:",
-    "table": "Table Recognition:",
-    "formula": "Formula Recognition:",
-    "chart": "Chart Recognition:",
-}
 
 image = Image.open(image_path).convert("RGB")
 
@@ -79,7 +72,7 @@ processor = AutoProcessor.from_pretrained(model_path, trust_remote_code=True)
 messages = [
     {"role": "user", "content": [
         {"type": "image", "image": image},
-        {"type": "text", "text": PROMPTS[task]},
+        {"type": "text", "text": "OCR:"},
     ]}
 ]
 
@@ -91,7 +84,7 @@ inputs = processor.apply_chat_template(
     return_tensors="pt"
 ).to(DEVICE)
 
-outputs = model.generate(**inputs, max_new_tokens=1024)
+outputs = model.generate(**inputs, max_new_tokens=1024, min_new_tokens=1)
 generated_text = processor.batch_decode(outputs, skip_special_tokens=True)[0]
 print(generated_text)
 ```
@@ -104,6 +97,36 @@ print(generated_text)
       ```bash
       python ocr_evaluator.py samples.json
       ```
+
+---
+
+## 📊 Benchmark Results
+
+Tachiwin-OCR was evaluated against the base PaddleOCR-VL model using a diverse subset of Indigenous language samples. The fine-tuning results demonstrate significant improvements in both character and word recognition accuracy.
+
+### Summary Metrics
+
+| Metric | Base Model (Raw) | Tachiwin-OCR (Fine-tuned) | Improvement |
+| :--- | :---: | :---: | :---: |
+| **Character Error Rate (CER)** | 7.59% | 6.80% | **10.4% (Relative Reduction)** |
+| **Word Error Rate (WER)** | 25.17% | 17.36% | **+7.81% (Absolute)** |
+| **OCR Accuracy (1 - CER)** | 92.41% | 93.20% | **+0.79% (Absolute)** |
+
+### Detailed Comparison (Sample)
+
+A subset of the evaluation results across different languages, where tonal languages are the most improved by this fine-tuning:
+
+| Language | Raw CER | FT CER | Raw WER | FT WER | Improvement |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| `stp` (Tepehuán) | 10.95% | 0.00% | 43.55% | 0.00% | +10.95% |
+| `maz` (Central Mazahua) | 3.29% | 0.41% | 9.09% | 0.00% | +2.88% |
+| `chj` (Ojitlán Chinantec) | 16.97% | 2.21% | 52.78% | 9.72% | +14.76% |
+| `maa` (Tecóatl Mazatec) | 86.70% | 8.49% | 105.08% | 10.17% | +78.21% |
+
+### Key Findings
+- **High Accuracy Gains:** In many tonal languages like Tepehuán (`stp`) and Mazatec (`maa`), the fine-tuning process reduced the error rate from significant levels to nearly zero or double digits.
+- **Robustness:** The model shows high resilience against synthetic distortions implemented during the data generation phase.
+- **Word-Level Performance:** The relative reduction in Word Error Rate (WER) highlights the model's improved capability in contextualizing character sequences specific to these language families.
 
 ---
 

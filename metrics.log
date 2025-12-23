@@ -1,0 +1,47 @@
+                     ID  Language   Raw CER    FT CER   Raw WER    FT WER Improvement
+0   zpo_zpo-ebible-M...       zpo     0.24%     0.24%     1.12%     1.12%      +0.00%
+1   stp_stp-ebible-C...       stp    10.95%     0.00%    43.55%     0.00%     +10.95%
+2   nhg_nhg-ebible-A...       nhg     0.19%     0.19%     1.49%     1.49%      +0.00%
+3   azz_azz-ebible-C...       azz     0.76%     0.25%     3.33%     1.67%      +0.51%
+4   trc_trc-ebible-L...       trc    17.83%    22.95%    65.17%    25.84%      -5.12%
+5   maz_maz-books-62...       maz     3.29%     0.41%     9.09%     0.00%      +2.88%
+6   zab_zab-ebible-A...       zab     1.81%     0.72%    10.20%     4.08%      +1.09%
+7   mir_mir-constitu...       mir     9.32%     5.14%    67.39%    58.70%      +4.18%
+8   mam_mam-ebible-M...       mam     1.86%     0.53%     7.69%     1.54%      +1.33%
+9   npl_npl-ebible-T...       npl     0.27%     0.00%     2.08%     0.00%      +0.27%
+10  zao_zao-ebible-J...       zao     8.87%    32.26%    38.89%    66.67%     -23.39%
+11  azz_azz-ebible-A...       azz     0.00%     0.00%     0.00%     0.00%      +0.00%
+12  ngu_ngu-ebible-J...       ngu     0.00%     0.00%     0.00%     0.00%      +0.00%
+13  mto_mto-ebible-C...       mto    14.49%     0.00%    81.48%     0.00%     +14.49%
+14  pls_pls-ebible-A...       pls     2.86%     2.86%    40.00%    20.00%      +0.00%
+15  mat_mat-constitu...       mat     1.30%     9.77%    14.89%    82.98%      -8.47%
+16  ncj_ncj-ebible-A...       ncj     0.00%     0.74%     0.00%     2.78%      -0.74%
+17  chj_chj-books-9_...       chj    16.97%     2.21%    52.78%     9.72%     +14.76%
+18  mit_mit-ebible-A...       mit     6.20%     0.00%    41.03%     0.00%      +6.20%
+19  maa_maa-ebible-L...       maa    86.70%     8.49%   105.08%    10.17%     +78.21%
+20  amu_amu-books-21...       amu     9.66%    13.79%    47.83%    50.00%      -4.14%
+21  zaw_zaw-ebible-J...       zaw     2.94%     0.80%    18.64%     3.39%      +2.14%
+22  huv_huv-ebible-A...       huv     0.00%     0.00%     0.00%     0.00%      +0.00%
+23  ote_ote-books-10...       ote     0.00%    82.70%     0.00%    92.00%     -82.70%
+24  mih_mih-ebible-M...       mih     0.00%     0.00%     0.00%     0.00%      +0.00%
+25  mxp_mxp-ebible-A...       mxp    17.17%    12.88%    52.94%     9.80%      +4.29%
+26  tac_tac-ebible-A...       tac     0.00%     1.96%     0.00%    11.11%      -1.96%
+27  zaa_zaa-ebible-E...       zaa     0.00%     5.00%     0.00%    66.67%      -5.00%
+28  ngu_ngu-ebible-A...       ngu     0.61%     0.00%     5.56%     0.00%      +0.61%
+29  otm_otm-ebible-G...       otm    13.43%     0.24%    44.83%     1.15%     +13.19%
+30           ──────────  ────────  ────────  ────────  ────────  ────────  ──────────
+31              AVERAGE               7.59%     6.80%    25.17%    17.36%      +0.79%
+
+============================================================
+SUMMARY
+============================================================
+Overall Raw CER: 7.59%
+Overall Finetuned CER: 6.80%
+Overall Raw WER: 25.17%
+Overall Finetuned WER: 17.36%
+------------------------------------------------------------
+Overall Raw Accuracy (1-CER): 92.41%
+Overall Finetuned Accuracy (1-CER): 93.20%
+CER Improvement: +0.79%
+WER Improvement: +7.81%
+Relative CER Reduction: 10.4%
